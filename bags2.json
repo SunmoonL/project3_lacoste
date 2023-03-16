@@ -1,0 +1,67 @@
+[
+
+    {
+
+        "id": 5,
+
+        "title": "(남성) 어반 브레이크 (Urban Break) 세로형 카메라백",
+
+        "imgUrl": "img/bags/product13-1.jpg",
+
+        "hoverimg":"img/bags/product13.jpg",
+
+        "content": "남성용 카메라백",
+
+        "price": "104,300원"
+
+    },
+    
+    {
+
+        "id": 6,
+
+        "title": "(남성) 어반 브레이크 (Urban Break) 백팩",
+
+        "imgUrl": "img/bags/product14-1.jpg",
+
+        "hoverimg":"img/bags/product14.jpg",
+
+        "content": "남성용 백팩",
+
+        "price": "153,300원"
+
+    },
+
+    {
+
+        "id": 7,
+
+        "title": "(남성) 홀리데이 (Holiday) 백팩",
+
+        "imgUrl": "img/bags/product15-1.jpg",
+
+        "hoverimg":"img/bags/product15.jpg",
+
+        "content": "남성용 홀리데이 백팩",
+
+        "price": "139,300원"
+
+    },
+
+    {
+
+        "id": 8,
+
+        "title": "(유니섹스) 홀리데이 (Holiday) 라지사이즈 바디백",
+
+        "imgUrl": "img/bags/product16-1.jpg",
+
+        "hoverimg":"img/bags/product16.jpg",
+
+        "content": "남성용 카메라백",
+
+        "price": "104,300원"
+
+    }
+
+]
