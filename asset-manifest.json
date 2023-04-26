@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/project4_lacoste/static/css/main.206dfa07.css",
-    "main.js": "/project4_lacoste/static/js/main.214171c2.js",
+    "main.js": "/project4_lacoste/static/js/main.45b110cb.js",
     "static/js/787.f5d0aeb8.chunk.js": "/project4_lacoste/static/js/787.f5d0aeb8.chunk.js",
     "index.html": "/project4_lacoste/index.html",
     "main.206dfa07.css.map": "/project4_lacoste/static/css/main.206dfa07.css.map",
-    "main.214171c2.js.map": "/project4_lacoste/static/js/main.214171c2.js.map",
+    "main.45b110cb.js.map": "/project4_lacoste/static/js/main.45b110cb.js.map",
     "787.f5d0aeb8.chunk.js.map": "/project4_lacoste/static/js/787.f5d0aeb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.206dfa07.css",
-    "static/js/main.214171c2.js"
+    "static/js/main.45b110cb.js"
   ]
 }
